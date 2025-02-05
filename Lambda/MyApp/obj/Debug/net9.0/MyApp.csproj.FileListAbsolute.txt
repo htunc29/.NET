@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\.net\lambda\myapp\bin\Debug\net9.0\MyApp.exe
+C:\Users\husey\Desktop\.net\lambda\myapp\bin\Debug\net9.0\MyApp.deps.json
+C:\Users\husey\Desktop\.net\lambda\myapp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\Users\husey\Desktop\.net\lambda\myapp\bin\Debug\net9.0\MyApp.dll
+C:\Users\husey\Desktop\.net\lambda\myapp\bin\Debug\net9.0\MyApp.pdb
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.sourcelink.json
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.dll
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\refint\MyApp.dll
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.pdb
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\husey\Desktop\.net\lambda\myapp\obj\Debug\net9.0\ref\MyApp.dll
