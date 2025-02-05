@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\Desktop\\.NET\\Delegate\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\husey\\desktop\\.NET\\event\\myapp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\Desktop\\.NET\\Delegate\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\husey\\desktop\\.NET\\event\\myapp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\Desktop\\.NET\\Delegate\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\desktop\\.NET\\event\\myapp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\husey\\Desktop\\.NET\\Delegate\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\husey\\desktop\\.NET\\event\\myapp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\Desktop\\.NET\\Delegate\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\husey\\desktop\\.NET\\event\\myapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
