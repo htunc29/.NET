@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\desktop\\.NET\\linq\\myapp\\MyApp.csproj": {}
+    "C:\\Users\\husey\\Desktop\\.net\\linq\\myapp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\desktop\\.NET\\linq\\myapp\\MyApp.csproj": {
+    "C:\\Users\\husey\\Desktop\\.net\\linq\\myapp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\desktop\\.NET\\linq\\myapp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\Desktop\\.net\\linq\\myapp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\husey\\desktop\\.NET\\linq\\myapp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\husey\\Desktop\\.net\\linq\\myapp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\desktop\\.NET\\linq\\myapp\\obj\\",
+        "outputPath": "C:\\Users\\husey\\Desktop\\.net\\linq\\myapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

@@ -93,3 +93,7 @@ List<int> sayilar=new List<int>{2,4,6,8,10};
 var squaredNumbers=sayilar.Select(n=>n*n);
 //Çıktı {4,16,36,64,100}
 ```
+## PLINQ(PARALLEL LINQ) - PARALEL İŞLEM
+```csharp
+var evenNumbers=numbers.AsParallel().Where(n=>n%2==0).ToList()
+```
