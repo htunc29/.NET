@@ -1,4 +1,4 @@
-### Lambda Expression
+### Lambda Expressions
 Lambda Expressions, anonim (ismi olmayan) metotlar tanımlamak için kullanılan kısa bir sözdizimidir.
 
 ####  Lambda Expressions ile Delegate Kullanımı
