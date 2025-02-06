@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\Desktop\\.NET\\Linq\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\husey\\Desktop\\.NET\\AsyncAwait\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\Desktop\\.NET\\Linq\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\husey\\Desktop\\.NET\\AsyncAwait\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\Desktop\\.NET\\Linq\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\Desktop\\.NET\\AsyncAwait\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\husey\\Desktop\\.NET\\Linq\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\husey\\Desktop\\.NET\\AsyncAwait\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\Desktop\\.NET\\Linq\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\husey\\Desktop\\.NET\\AsyncAwait\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
